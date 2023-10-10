@@ -7,7 +7,7 @@
 				<xr:ObjectId>f21bd154-d64d-4b67-b45e-fe1c8d6c45b5</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:GeneratedType name="ExternalReportObject.ВетвлениеВ_Git" category="Object">
-				<xr:TypeId>155a2b2d-8cc1-4059-8566-8fae45436edd</xr:TypeId>
+				<xr:TypeId>155a2b2d-8cc1-4159-8566-8fae45436edd</xr:TypeId>
 				<xr:ValueId>caa7b02f-c8aa-4761-91fb-27eaee01e8b8</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
@@ -16,7 +16,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Ветвление в git</v8:content>
+					<v8:content>Ветвление в git для теста</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
